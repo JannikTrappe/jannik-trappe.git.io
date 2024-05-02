@@ -14,7 +14,7 @@
 </tr>
 <tr class="teach">
 <td class="teach" id="sem">[WS23/24]</td>
-<td class="teach"><a>Mathematics 1a for Engineers A: </a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=202310&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"><autocolor>CIW</autocolor></a><a> </a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=201288&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"><autocolor>WMB/WVET</autocolor></td>
+<td class="teach"><a>Mathematics 1a for Engineers A: </a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=202310&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"><autocolor>CIW</autocolor></a><a> </a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&publishid=201288&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"><autocolor>WMB/WVET</autocolor></a></td>
 </tr>
 <tr class="teach">
 <td class="teach" id="sem">[WS22/23]</td>
