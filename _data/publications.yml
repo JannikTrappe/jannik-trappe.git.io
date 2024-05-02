@@ -1,21 +1,20 @@
 main:
 
-<!--
-  - title: On the Number of Degenerate Simplex Pivots
-    authors: Kirill Kukharenko, Laura Sanità
-    conference_short: IPCO
-    conference: <b>Submitted to:</b> Integer Programming and Combinatorial Optimization <strong>(IPCO)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2311.15799
-    image: ./assets/img/antistalling.png
-    notes: arXiv preprint
+
+#- title: On the Number of Degenerate Simplex Pivots
+#    authors: Kirill Kukharenko, Laura Sanità
+#    conference_short: IPCO
+#    conference: <b>Submitted to:</b> Integer Programming and Combinatorial Optimization <strong>(IPCO)</strong>, 2024.
+#    pdf: https://arxiv.org/abs/2311.15799
+#    image: ./assets/img/antistalling.png
+#    notes: arXiv preprint
 
 
-  - title: Polytope Extensions with Linear Diameters
-    authors: Volker Kaibel, Kirill Kukharenko
-    conference_short: SIDMA
-    conference: <b>Submitted to:</b> SIAM Journal on Discrete Mathematics <strong>(SIDMA)</strong>.
-    pdf: https://arxiv.org/abs/2307.05246
-    image: ./assets/img/rock.png
-    notes: arXiv preprint
+#  - title: Polytope Extensions with Linear Diameters
+#    authors: Volker Kaibel, Kirill Kukharenko
+#    conference_short: SIDMA
+#    conference: <b>Submitted to:</b> SIAM Journal on Discrete Mathematics <strong>(SIDMA)</strong>.
+#    pdf: https://arxiv.org/abs/2307.05246
+#    image: ./assets/img/rock.png
+#    notes: arXiv preprint
 
--->
