@@ -1,5 +1,6 @@
 main:
 
+<!--
   - title: On the Number of Degenerate Simplex Pivots
     authors: Kirill Kukharenko, Laura Sanità
     conference_short: IPCO
@@ -16,3 +17,5 @@ main:
     pdf: https://arxiv.org/abs/2307.05246
     image: ./assets/img/rock.png
     notes: arXiv preprint
+
+-->
