@@ -6,11 +6,11 @@
 <tbody style="border : none;">
 <tr class="teach">
 <td class="teach" id="sem">[SS24]</td>
-<td class="teach"><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=208024"><autocolor>Mathematics 1b for Engineers A</autocolor></a></td>
+<td class="teach"><a>Mathematics 1b for Engineers A</a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=208024"><autocolor></autocolor>CIW</a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=205710"><autocolor></autocolor>MB</a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=208398"><autocolor></autocolor>SPTE/BB</a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=208348"><autocolor></autocolor>WLO</a></td>
 </tr>  
 <tr class="teach">
 <td class="teach" id="sem">[WS23/24]</td>
-<td class="teach"><a>Test</a><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=202767"><autocolor>Introduction to Mathematical Optimization</autocolor></a></td>
+<td class="teach"><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=202767"><autocolor>Introduction to Mathematical Optimization</autocolor></a></td>
 </tr>
 <tr class="teach">
 <td class="teach" id="sem">[WS23/24]</td>
