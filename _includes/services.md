@@ -10,6 +10,7 @@
 </tr>  
 <tr class="teach">
 <td class="teach" id="sem">[WS23/24]</td>
+<td class="teach"><a>CIW</a></td>
 <td class="teach"><a marker=square href="https://lsf.ovgu.de/qislsf/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=202767"><autocolor>Introduction to Mathematical Optimization</autocolor></a></td>
 </tr>
 <tr class="teach">
